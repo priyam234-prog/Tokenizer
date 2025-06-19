@@ -11,9 +11,6 @@ Well, this project makes that happen — in real-time, with real wallets.
 - ⚡️ Real-time interaction between AI, wallet, and chain  
 - 🧩 Modular Mastra logic to generate and validate transactions
 
-## 📸 Demo
-
-> Watch the magic in action: [https://x.com/manashanand2/status/1911339161950310552]
 
 ## 🛠️ Tech Stack
 
